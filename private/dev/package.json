@@ -16,7 +16,7 @@
     "babel-plugin-transform-commonjs": "1.1.6",
     "postcss-dir-pseudo-class": "^5.0.0",
     "postcss-logical": "^4.0.2",
-    "vite": "^2.7.1"
+    "vite": "^3.2.11"
   },
   "private": true,
   "type": "module",
